@@ -26,5 +26,9 @@ git commit -m "変更内容の説明"
 
 git push origin main
 
+## ローカルサーバーでテスト
+
+bundle exec jekyll serve
+
 
 ## その他は徐々に追加していきます
