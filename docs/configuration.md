@@ -1,5 +1,5 @@
 ---
-title: お役立ち情報2
+title: メモ
 nav_order: 4
 ---
 
@@ -29,6 +29,3 @@ git push origin main
 ## ローカルサーバーでテスト
 
 bundle exec jekyll serve
-
-
-## その他は徐々に追加していきます

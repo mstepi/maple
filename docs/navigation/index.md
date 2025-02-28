@@ -2,7 +2,7 @@
 
 ---
 
-# Navigation
+# イベント情報
 
 The default page layout supports various navigation features:
 

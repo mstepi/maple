@@ -1,5 +1,5 @@
 ---
-title: イベント情報
+title: イベント
 nav_order: 2
 ---
 
