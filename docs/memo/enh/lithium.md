@@ -6,10 +6,35 @@ nav_order: 1
 
 
 # リチウムハートの強化方法について
+{: .no_toc }
+
+## 一覧
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 
 
+## スペシャルハートで強化する場合
 
-### Large image
 
-![a](/assets/images/large-image.jpg)
+
+![](/assets/images/2025-03-05025253.png)
+
+
+
+![a](/assets/images/2025-03-05023002.png)
+
+![a](/assets/images/2025-03-05025022.png)
+
+### まず痕跡100％でUGを消費
+
+7回叩きましょう
+
+![a](/assets/images/2025-03-05025143.png)
+
+
+## 通常のイベント書で強化する場合
