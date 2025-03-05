@@ -22,19 +22,19 @@ nav_order: 1
 
 
 
-![](/assets/images/2025-03-05025253.png)
+![]({{ site.baseurl }}//assets/images/2025-03-05025253.png)
 
 
 
-![a](/assets/images/2025-03-05023002.png)
+![a]({{ site.baseurl }}//assets/images/2025-03-05023002.png)
 
-![a](/assets/images/2025-03-05025022.png)
+![a]({{ site.baseurl }}//assets/images/2025-03-05025022.png)
 
 ### まず痕跡100％でUGを消費
 
 7回叩きましょう
 
-![a](/assets/images/2025-03-05025143.png)
+![a]({{ site.baseurl }}//assets/images/2025-03-05025143.png)
 
 
 ## 通常のイベント書で強化する場合

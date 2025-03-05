@@ -24,7 +24,7 @@ nav_order: 1
 
 ### 目標
 
-最終的にグランドマスターになり、ユニオンブロック![ユニオンブロック](/assets/images/202503051552.png)を入手
+最終的にグランドマスターになり、ユニオンブロック![ユニオンブロック]({{ site.baseurl }}//assets/images/202503051552.png)を入手
 
 
 ### 1日目
@@ -38,7 +38,7 @@ nav_order: 1
 
 ③ 探査終えたらノーマンに話しかけて雇える限り雇用する
 
-![ノーマン]({{ site.baseurl }}/assets/images/202503051555.png)![ノーマン名声]({{ site.baseurl }}/assets/images/202503051547.png)
+![ノーマン]({{ site.baseurl }}/assets/images/202503051555.png)![ノーマン名声]({{ site.baseurl }}git add ./assets/images/202503051547.png)
 
 ④ ★から探検日誌→補給品受け取り
 
