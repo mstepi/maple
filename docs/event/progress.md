@@ -31,18 +31,18 @@ nav_order: 1
 
 ① パスカルに話しかけて必ずクエストを受注
 
-![パスカル](/assets/images/202503051546.png)
+![パスカル]({{ site.baseurl }}/assets/images/202503051546.png)
 
 ② アビス入口2で120分放置
 
 
 ③ 探査終えたらノーマンに話しかけて雇える限り雇用する
 
-![ノーマン](/assets/images/202503051555.png)![ノーマン名声](/assets/images/202503051547.png)
+![ノーマン]({{ site.baseurl }}/assets/images/202503051555.png)![ノーマン名声]({{ site.baseurl }}/assets/images/202503051547.png)
 
 ④ ★から探検日誌→補給品受け取り
 
-![補給品](/assets/images/202503051556.png)
+![補給品]({{ site.baseurl }}/assets/images/202503051556.png)
 
 ⑤ 初日で2キャラが完了時4レベになります。
 
